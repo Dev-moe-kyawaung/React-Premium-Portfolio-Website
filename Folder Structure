@@ -1,0 +1,17 @@
+react-premium-portfolio/
+│── public/
+│   └── index.html
+│── src/
+│   │── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Services.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   │── App.jsx
+│   │── main.jsx
+│   │── index.css
+│── package.json
